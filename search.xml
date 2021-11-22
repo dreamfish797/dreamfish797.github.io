@@ -18,4 +18,20 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2019/12/01/about/</url>
+    <content><![CDATA[<blockquote>
+<p>A developer, live in Hangzhou, China.</p>
+</blockquote>
+<p>姓名：沈宇<br>现居：杭州<br>GitHub: <a href="https://github.com/Shen-Yu">Shen-Yu</a><br>twitter: <a href="https://twitter.com/shenyu1995">shenyu1995</a><br>QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=448766534&site=qq&menu=yes">448766534</a><br>微信: shenyu_vip</p>
+<span id="more"></span>
+
+<!-- ![avatar.jpg](https://i.loli.net/2019/12/02/Hw5WJIMKzi1YrU8.jpg) -->
+
+<img src="https://pic.downk.cc/item/5e739676e83c3a1e3ab4b361.jpg" alt="avatar" width="300" style="border-radius:50%"/>]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
 </search>
